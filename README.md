@@ -69,6 +69,28 @@ Consultations: On MS Teams or TBD
    * Homeworks
    * Laboratory competition
 
+---
+**Project guidelines**
+
+The project can be done in groups of up to 3 people.
+Please use dataset with more than 5000 records and 10+ features.
+
+The task consists of analyzing the data, conducting the modeling process, and preparing a report with the following structure:
+
+1. Introduction and description of the selected problem (classification or regression), and a description of the dataset.
+2. Data cleaning and preprocessing - missing data imputation, standardization, one-hot encoding, outlier transformation, etc.
+3. Graphical and descriptive Exploratory Data Analysis (EDA), including, among others, a graphical presentation of the relationships between the selected target variable and the independent variables, as well as the execution and description of the results from record segmentation (clustering), etc.
+4. Creation of at least 3 models and hyperparameter tuning for the classification or regression task.
+5. Graphical and descriptive evaluation and model selection.
+6. Summary of the results, along with a discussion of encountered problems, challenges, and the solutions applied.
+
+Submission Guidelines:
+
+* The code and descriptions/comments must be contained within a Jupyter Notebook.
+* Please send the reports to lkrain@sgh.waw.pl in .html/.pdf and .ipynb formats (one read-only format and one executable format).
+* During the last class, the project will be presented (please prepare separate presentation) for approximately 15 minutes. Presentations are not graded separately, but may influence the grade for the project.
+
+The deadline for submitting the report is **2026-05-28**.
 
 ---
 **Grading rules**
