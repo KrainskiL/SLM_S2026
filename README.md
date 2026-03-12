@@ -18,7 +18,7 @@ Name: Łukasz Kraiński
 
 Email: lkrain@sgh.waw.pl
 
-Consultations: On MS Teams or TBD
+Consultations: On MS Teams or Thursdays G-115 08:00-09:40 (after e-mail alignment)
 
 ---
 **Lecturers**
@@ -64,7 +64,7 @@ Consultations: On MS Teams or TBD
 **Course evaluation criteria**
 
 * Theoretical examination on last lecture (50 points)
-* Practical project in groups on laboratory (50 points)
+* Practical project in groups (up to 3 people) on laboratory (50 points)
 * Extra points (please send to lkrain@sgh.waw.pl):
    * Homeworks
    * Laboratory competition
