@@ -17,3 +17,28 @@ Please check whether the ordering of predictions is consistent with the observat
 Table with ranking will appear in this README file. Best team in each course group will receive 5 points, next 4 points, etc.
 
 Good luck!
+
+### Results
+
+**Group 11**
+
+| Team | F1-Score | Points | Language | Model |
+|------|----------|--------|----------|-------|
+| BinaryFalcons | 79,66 | 5 | Python | Ensemble of Boosted Models |
+| P&H | 79,29 | 4 | Python | Random Forest |
+| The Three Musketeers | 79,17 | 3 | Python | Random Forest |
+| costam | 78,84 | 2 | Python | Deep Neural Network |
+| HopBoosters | 78,11 | 1 | Python | Boosted Trees |
+| Craftboost | 77,33 | 0 | Python | Random Forest |
+| SGH | 68,95 | 0 | Python | Ensemble of Boosted Models |
+
+**Group 13**
+
+| Team | F1-Score | Points | Language | Model |
+|------|----------|--------|----------|-------|
+| LarryRun | 79,25 | 5 | Python | XGBoost |
+| Autobots | 78,89 | 4 | Python | Random Forest |
+| Bobr | 78,74 | 3 | Python | XGBoost |
+| Piwo3 | 78,49 | 2 | Python | Random Forest |
+| 5 Points pls | 77,12 | 1 | Python | XGBoost |
+| IED | 75,32 | 0 | Python | Boosted Trees |
